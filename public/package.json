@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/timurkashapov/mbank/issues"
   },
-  "homepage": "https://github.com/timurkashapov/mbank#readme"
+  "homepage": "https://github.com/timurkashapov/mbank#readme",
+  "dependencies": {
+    "normalize.css": "^8.0.1"
+  }
 }
