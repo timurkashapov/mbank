@@ -1,0 +1,22 @@
+{
+  "name": "mbank",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "testAll"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/timurkashapov/mbank.git"
+  },
+  "keywords": [
+    "mbank"
+  ],
+  "author": "Timur Kashapov",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/timurkashapov/mbank/issues"
+  },
+  "homepage": "https://github.com/timurkashapov/mbank#readme"
+}
